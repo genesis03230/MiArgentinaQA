@@ -30,7 +30,7 @@ The QA activities for this project focus on:
 The following preview demonstrates a critical issue identified during manual testing.  
 In this scenario, a collectible province can be dropped outside the playable area, becoming unrecoverable and preventing game completion without restarting.
 
-![Province lost outside playable area](Evidence/bug_province_lost.gif)
+![MiArgentina-BUG-01-ProvinceLostOutsidePlayableArea](https://github.com/user-attachments/assets/f5af6e1c-a936-49b1-9939-36bf4242be01)
 
 > Full reproduction steps, severity, and complete video evidence are documented in `Bug-Reports.md`.
 
