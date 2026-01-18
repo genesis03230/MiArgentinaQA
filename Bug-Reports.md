@@ -41,4 +41,5 @@ OR
 - Negatively affects user experience
 
 ### Evidence
-- Video and visual evidence available in the `Evidence` folder
+- 🎥 Video (Full reproduction): [MiArgentina-BUG-01-ProvinceLostOutsidePlayableArea](https://www.youtube.com/watch?v=Q0GpkjBPPdo)
+- 🖼️ Visual preview (GIF): available in the `Evidence` folder
